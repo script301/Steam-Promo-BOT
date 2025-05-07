@@ -26,10 +26,10 @@ Um bot de promoções de jogos da **Steam** para **Discord**, totalmente automá
 - Node.js >= 18
 - Um bot registrado no Discord
 - Token da Steam API (opcional, para recursos extras)
-
-### Passos
+- Você terá que criar um arquivo '.env' com o conteúdo que está no arquivo 'example .env' para que tudo funcione corretamente
+ ### Passos
 
 ```bash
-git clone https://github.com/seuusuario/steam-promo-bot.git
+https://github.com/script301/Steam-Promo-BOT
 cd Bot
 sh start.sh
