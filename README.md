@@ -2,8 +2,8 @@
 
 Um bot de promoções de jogos da **Steam** para **Discord**, totalmente automático e personalizável. Ideal para servidores de jogos, comunidades geek ou canais de ofertas!
 
-![Steam Promo Bot Banner](![ChatGPT Image 7 de mai  de 2025, 04_51_28](https://github.com/user-attachments/assets/1b9ae00f-f07d-4a59-bca6-8a7de087a2be)
-) <!-- Substitua por sua imagem gerada -->
+![ChatGPT Image 7 de mai  de 2025, 04_51_28](https://github.com/user-attachments/assets/1b9ae00f-f07d-4a59-bca6-8a7de087a2be)
+
 
 ---
 
